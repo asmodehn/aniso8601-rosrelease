@@ -92,3 +92,5 @@ Versions of tools used:
 
 # aniso8601-rosrelease
 Releasing https://github.com/3stack-software/python-aniso8601-relativedelta on ROS
+
+[![Build Status](https://travis-ci.org/asmodehn/aniso8601-rosrelease.svg?branch=upstream)](https://travis-ci.org/asmodehn/aniso8601-rosrelease)
