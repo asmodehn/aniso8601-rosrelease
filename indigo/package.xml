@@ -11,8 +11,8 @@
 
   <license>BSD</license>
 
-  <url type="repository">https://asmodehn@bitbucket.org/nielsenb/aniso8601.git</url>
-  <url type="bugtracker">https://asmodehn@bitbucket.org/nielsenb/aniso8601.git/issues</url>
+  <url type="repository">https://bitbucket.org/nielsenb/aniso8601.git</url>
+  <url type="bugtracker">https://bitbucket.org/nielsenb/aniso8601.git/issues</url>
 
   <author>Brandon Nielsen</author>
   <maintainer email="asmodehn@gmail.com">AlexV</maintainer>
@@ -21,7 +21,7 @@
   <build_depend version_gte="0.1.15">catkin_pip</build_depend>
 
   <export>
-    <rosdoc external_url="https://aniso8601.readthedocs.io/en/latest/" />
+    <rosdoc external_url="https://aniso8601.readthedocs.io/en/v0.83/" />
   </export>
 
 </package>
