@@ -23,11 +23,6 @@ if (CATKIN_ENABLE_TESTING)
     # NoseTests
     ############
 
-    catkin_add_nosetests(aniso8601/tests/test_date WORKING_DIRECTORY python2)
-    catkin_add_nosetests(aniso8601/tests/test_duration WORKING_DIRECTORY python2)
-    catkin_add_nosetests(aniso8601/tests/test_init WORKING_DIRECTORY python2)
-    catkin_add_nosetests(aniso8601/tests/test_interval WORKING_DIRECTORY python2)
-    catkin_add_nosetests(aniso8601/tests/test_time WORKING_DIRECTORY python2)
-    catkin_add_nosetests(aniso8601/tests/test_timezone WORKING_DIRECTORY python2)
+    catkin_add_nosetests(python2/aniso8601 WORKING_DIRECTORY ${CMAKE_CURRENT_LIST_DIR}/python2)
 
 endif()
