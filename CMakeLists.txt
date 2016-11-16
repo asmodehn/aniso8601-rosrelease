@@ -23,6 +23,6 @@ if (CATKIN_ENABLE_TESTING)
     # NoseTests
     ############
 
-    catkin_add_nosetests(aniso8601/tests)
+    catkin_add_nosetests(python2/aniso8601/tests)
 
 endif()
