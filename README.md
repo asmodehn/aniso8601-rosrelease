@@ -1,3 +1,26 @@
+## aniso8601 (indigo) - 0.8.3-4
+
+The packages in the `aniso8601` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo aniso8601` on `Thu, 23 Mar 2017 06:41:25 -0000`
+
+The `aniso8601` package was released.
+
+Version of package(s) in repository `aniso8601`:
+
+- upstream repository: https://bitbucket.org/nielsenb/aniso8601.git
+- release repository: https://github.com/asmodehn/aniso8601-rosrelease.git
+- rosdistro version: `0.8.3-3`
+- old version: `0.8.3-3`
+- new version: `0.8.3-4`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## aniso8601 (jade) - 0.8.3-1
 
 The packages in the `aniso8601` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade aniso8601` on `Thu, 23 Mar 2017 01:02:34 -0000`
