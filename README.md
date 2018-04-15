@@ -1,3 +1,26 @@
+## python-aniso8601 (indigo) - 0.8.3-5
+
+The packages in the `python-aniso8601` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo python-aniso8601` on `Sun, 15 Apr 2018 16:41:41 -0000`
+
+The `python-aniso8601` package was released.
+
+Version of package(s) in repository `python-aniso8601`:
+
+- upstream repository: https://bitbucket.org/nielsenb/aniso8601.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.8.3-4`
+- new version: `0.8.3-5`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## aniso8601 (indigo) - 0.8.3-4
 
 The packages in the `aniso8601` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo aniso8601` on `Thu, 23 Mar 2017 06:41:25 -0000`
