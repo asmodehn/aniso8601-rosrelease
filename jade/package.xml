@@ -3,7 +3,7 @@
   <!--
    This file is mostly here to provide ros dependencies when this project is built with catkin
    -->
-  <name>aniso8601</name>
+  <name>python-aniso8601</name>
   <version>:{version}</version>
   <description>
   Another ISO 8601 parser for Python
