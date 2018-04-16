@@ -187,6 +187,8 @@ Releasing https://github.com/3stack-software/python-aniso8601-relativedelta on R
 
 | Indigo | Jade |
 |:------:|:----:|
-| [![Build Status](https://travis-ci.org/asmodehn/aniso8601-rosrelease.svg?branch=release%2Findigo%2Faniso8601)](https://travis-ci.org/asmodehn/aniso8601-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/aniso8601-rosrelease.svg?branch=release%2Fjade%2Faniso8601)](https://travis-ci.org/asmodehn/aniso8601-rosrelease) |
+| [![Build Status](https://travis-ci.org/pyros-dev/aniso8601-rosrelease.svg?branch=release%2Findigo%2Faniso8601)](https://travis-ci.org/pyros-dev/aniso8601-rosrelease) | [![Build Status](https://travis-ci.org/pyros-dev/aniso8601-rosrelease.svg?branch=release%2Fjade%2Faniso8601)](https://travis-ci.org/pyros-dev/aniso8601-rosrelease) |
 
+
+Note : From Kinetic, this package is available from ubuntu (Xenial) and others via rosdep.
 
